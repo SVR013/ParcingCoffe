@@ -1,5 +1,5 @@
 # ParcingCoffe
-Parsing information about the products of the website
+Parsing information about the products of the website METRO
 
 Чтобы запустить скрипт парсера необходимо выполнить данные действия:
 1. Создать виртуальное окружение
